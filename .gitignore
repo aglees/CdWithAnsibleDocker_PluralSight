@@ -1,2 +1,9 @@
 # ignore vagrant folder
 .vagrant/
+
+# VScode ignores
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
